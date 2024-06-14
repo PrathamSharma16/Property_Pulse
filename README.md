@@ -19,6 +19,5 @@
 
 ![image](https://github.com/PrathamSharma16/Property_Pulse/assets/110150708/f82edaf4-6c67-4ba9-a4ab-20124f726a3c)
 
-![image](https://github.com/PrathamSharma16/Property_Pulse/assets/110150708/cfb03e86-ea0a-447d-95ec-62d75925e4f0)
 
 In this project, we developed a machine learning model to predict house prices in Bangalore and created a user-friendly web interface for easy interaction. We began by collecting and preprocessing the dataset, followed by training a Linear Regression model and evaluating its performance. Using Flask, we built a web application to input house features and obtain predictions, making the model accessible to non-technical users. The project is thoroughly documented with a README.md, ensuring ease of understanding and replication. Future enhancements could include experimenting with more complex models, adding additional features, and deploying the application on a cloud platform for wider access.
